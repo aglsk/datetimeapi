@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/datetime", "dest": "/api/datetime.js" }
+  ]
+}
